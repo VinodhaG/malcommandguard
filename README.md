@@ -42,8 +42,6 @@ instructions are not included here — see screenshots below for a demonstration
 ## Screenshots
 <img width="691" height="331" alt="image" src="https://github.com/user-attachments/assets/f00bed1c-d7d0-4a45-b70a-020488b5c367" />
 
-<img width="691" height="331" alt="image" src="https://github.com/user-attachments/assets/55a23bb7-7484-4284-97cb-22955f4c55c8" />
-
 <img width="664" height="234" alt="image" src="https://github.com/user-attachments/assets/0230240a-e82e-424e-a932-bc5fc38eed78" />
 
 <img width="899" height="431" alt="image" src="https://github.com/user-attachments/assets/30075d51-661e-47c2-bb80-5a80f5487df2" />
