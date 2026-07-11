@@ -1,0 +1,47 @@
+powershell.*-enc
+bash\s+-i
+curl\s+.*\.sh
+wget\s+.*\.sh
+cmd\.exe
+ftp\s+
+scp\s+.*@
+/bin/sh
+rm\s+-rf\s+/
+sudo\s+.*apt\s+install
+net\s+user
+powershell\s+Invoke-WebRequest
+whoami
+nc\s+-lvnp
+python\s+-c\s+import
+php\s+-r\s+
+powershell\s+-ExecutionPolicy\s+Bypass
+Invoke-Expression
+Invoke-Command
+iex\s+
+nmap\s+
+hydra\s+
+msfconsole
+john\s+
+sqlmap\s+
+smbclient
+dirb\s+
+curl\s+-X\s+POST
+chmod\s+\+x\s+
+wget\s+http.*\.exe
+wget\s+http.*\.php
+base64\s+-d
+openssl\s+enc
+curl\s+-s\s+
+bash\s+-c
+powershell\s+-Command
+powershell\s+-NoProfile
+/etc/passwd
+rm -rf
+base64
+> /dev/tcp
+powershell -enc
+ftp .*@.*
+net user
+Invoke-WebRequest
+SimpleHTTPServer
+bash -i
